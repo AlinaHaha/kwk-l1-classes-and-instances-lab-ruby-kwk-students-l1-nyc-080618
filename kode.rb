@@ -20,5 +20,5 @@ end
 end
 
 kode_with_klossy = Kode.new("2018", "MacBook Pro", "18")
-puts kode_with_klossy.
-    
+
+puts kode_with_klossy.year
